@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# No venv, pycaches - too many files
+/server/venv
+/server/__pycache__
+__pycache__
